@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Environment & secrets
+.env
+.env.*
+
+# Data artifacts (keep repo lightweight)
+*.db
+*.sqlite*
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.arrow
+*.orc
+*.sav
+*.dta
+*.rds
+*.bak
+*.log
+
+# Excel/Spreadsheets (exported results)
+*.xls
+*.xlsx
+*.ods
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Local anaconda project metadata
+anaconda_projects/db/project_filebrowser.db
