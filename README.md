@@ -18,7 +18,7 @@ A concise, reproducible walkthrough for collecting and exploring job postings da
 1) Clone the repository
 ```bash
 git clone <your-repo-url>.git
-cd "Course 9 peer group assignment"
+cd "Collecting_Jobs_data_Using_API"
 ```
 
 2) Create a Python environment (Anaconda recommended)
